@@ -12,7 +12,7 @@ print('World')
 
 print("hello, how are you?")
 
-print("hello")
+print(2+1)
 
 
 
@@ -49,3 +49,4 @@ print('yay')
 
 print('finally')
 
+print("nice")
