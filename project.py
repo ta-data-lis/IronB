@@ -2,7 +2,7 @@
 print("hello")
 
 
-print("Good Morning")
+print("Good Morning World")
 
 
 print('World')
@@ -19,7 +19,7 @@ print(2+1)
 
 print('The lady took out her trash')
 
-print("I like coffee")
+print("I like coffee and cigarettes")
 
 print("problems")
 
