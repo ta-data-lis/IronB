@@ -34,6 +34,10 @@ print("Im here, finally!")
 
 print("Hello Team!")
 
+
 print("Hello Team, again!")
 
+
+
+print('Filipe wants a conflict to resolve')
 
